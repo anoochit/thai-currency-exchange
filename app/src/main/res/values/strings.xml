@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Thai Currency Exchange</string>
+    <string name="action_refresh">Refresh</string>
+
+    <string-array name="cur_string">
+        <item>Australian Dollar</item>
+        <item>Canadian Dollar</item>
+        <item>Swiss Franc</item>
+        <item>Danish Krone</item>
+        <item>Euro</item>
+        <item>Pound Sterling</item>
+        <item>Hong Kong Dollar</item>
+        <item>Japanese Yen</item>
+        <item>Mexican Peso</item>
+        <item>New Zealand Dollar</item>
+        <item>Philippine Peso</item>
+        <item>Swedish Krona</item>
+        <item>Singapore Dollar</item>
+        <item>United States Dollar</item>
+        <item>South African Rand</item>
+    </string-array>
+    
+    <string-array name="sgn_string">
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>DKK</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>HKD</item>
+        <item>JPY</item>
+        <item>MXN</item>
+        <item>NZD</item>
+        <item>PHP</item>
+        <item>SEK</item>
+        <item>SGD</item>
+        <item>USD</item>
+        <item>ZAR</item>
+    </string-array>
+    <string name="txt_loading">Loading...</string>
+
+</resources>

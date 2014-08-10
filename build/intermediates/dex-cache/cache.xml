@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/xavier/Project/ThaiCurrencyExchange/app/build/intermediates/pre-dexed/debug/libGoogleAnalyticsV2-cabca45e99dea68db0e0af614eb3cb428738faf2.jar"
+        jar="/Users/xavier/Project/ThaiCurrencyExchange/app/libs/libGoogleAnalyticsV2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6c48a1a1621e55c66fa6a381642916385c9dd781"/>
+    <item
+        dex="/Users/xavier/Project/ThaiCurrencyExchange/app/build/intermediates/pre-dexed/debug/StartAppInApp-2.4.1-4f82f215bc510a5083d0e2b42223fafad447b113.jar"
+        jar="/Users/xavier/Project/ThaiCurrencyExchange/app/libs/StartAppInApp-2.4.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="12356c21c15e847fce0d686b7b2003be119816fe"/>
+    <item
+        dex="/Users/xavier/Project/ThaiCurrencyExchange/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-ec884e150dd9193787f853f479029834c15e39cf.jar"
+        jar="/Users/xavier/Project/ThaiCurrencyExchange/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/xavier/Project/ThaiCurrencyExchange/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-08202da974824c4d0548aebb8a54c5ca1c6afef9.jar"
+        jar="/Users/xavier/adt-bundle-mac-x86_64/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/xavier/Project/ThaiCurrencyExchange/app/build/intermediates/pre-dexed/debug/classes-86a49d9ca9d67bde5d70f3f72b47c5c85abddd17.jar"
+        jar="/Users/xavier/Project/ThaiCurrencyExchange/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/xavier/Project/ThaiCurrencyExchange/app/build/intermediates/pre-dexed/debug/GoogleAdMobAdsSdk-6.4.1-e07e65a6ece13347bd3e3788d89ef88c81163a4e.jar"
+        jar="/Users/xavier/Project/ThaiCurrencyExchange/app/libs/GoogleAdMobAdsSdk-6.4.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6262c554ef5744538d526465aa73704810705734"/>
+
+</pre-dex-items>
